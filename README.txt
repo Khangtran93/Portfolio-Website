@@ -1,0 +1,1 @@
+This is my portfolio website. It includes a short summary about myself, the projects that I did, and my resume.
